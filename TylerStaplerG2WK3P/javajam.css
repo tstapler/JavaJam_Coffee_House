@@ -1,0 +1,34 @@
+body {
+	background: #ffffcc;
+	color: #330000;
+	font: Arial;
+}
+
+header {
+	background: #ccaa66;
+	color: #000000;
+	text-align: center
+}
+
+h1 {
+	line-height: 200%
+}
+
+nav {
+	text-align: center;
+}
+
+footer {
+	background: #ccaa66;
+	color: #000000;
+	font-size: .60em;
+	font-weight: bold;
+	font-style: italic;
+	text-align: center;
+}
+
+#wrapper {
+	margin-left: auto;
+	margin-right: auto;
+	width: 80%;
+}

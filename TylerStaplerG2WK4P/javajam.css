@@ -1,0 +1,56 @@
+body {
+        background: #ffffcc;
+        background-image: url("background.gif");
+        color: #330000;
+        font: Arial;
+}
+
+header {
+        background: #ccaa66;
+        color: #000000;
+        text-align: center
+}
+
+h1 {
+        line-height: 200%
+}
+
+h2 {
+        background-color: #ccaa66;
+        font-size: 1.2em;
+        padding-left: 10px;
+        padding-bottom: 5px;
+}
+
+nav {
+        text-align: center;
+}
+
+.details {
+	padding-left: 20%;
+	padding-right: 20%;
+}
+
+img {
+	border: none;
+}
+
+footer {
+	padding: 10px;
+        background: #ccaa66;
+        color: #000000;
+        font-size: .60em;
+        font-weight: bold;
+        font-style: italic;
+        text-align: center;
+}
+
+#wrapper {
+        background: #ffffcc;
+        margin-left: auto;
+        margin-right: auto;
+        width: 80%;
+        max-width: 1024px;
+        min-width: 700px;
+        box-shadow: 10px 10px 5px #888888;
+}

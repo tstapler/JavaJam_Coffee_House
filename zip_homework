@@ -1,0 +1,6 @@
+#!/usr/bin/env bash
+shopt -s extglob
+
+for folder in TylerStaplerG2*P; do
+  zip "$folder.zip" "$folder"/*.{html,css,js,jpg,ico,gif}
+done
